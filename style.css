@@ -1,0 +1,67 @@
+
+@import url('https://fonts.googleapis.com/css2? family = Comfortaa: wght @ 300 & family = Lobster & family = Roboto + Condensed: ital, wght @ 1300 & family = Roboto: wght @ 300 & display = swap ');
+.first{
+    font-family: "Roboto Condensed";
+    font-weight: 700;
+}
+
+@import url('https://fonts.googleapis.com/css2? family = Comfortaa: wght @ 300 & family = Lobster & family = Roboto + Condensed: ital, wght @ 1300; 1,400 & family = Roboto: ital, wght @ 1,100 & display = swap ');
+.three{
+    font-family: "Робото";
+    font-weight: 700;
+}
+.first{
+    color: rgb(204, 0, 255);
+}
+
+.first{
+    border: 3px solid black;
+}
+
+.first{
+    background-color: rgb(255, 208, 0);
+}
+  
+.three{
+    background: firebrick;
+}
+
+.three{
+    color: yellowgreen;
+}
+
+.three{
+    border: 3px solid black;
+}
+@import url('https://fonts.googleapis.com/css2? family = Comfortaa: wght @ 300 & family = Lobster & family = Praise & family = Roboto + Condensed: ital, wght @ 1300; 1,400 & family = Roboto: ital, wght @ 1,100 & display = swap ');
+.second{
+    font-family: "Робото";
+    font-weight: 700;
+}
+.second{
+    background-color: chartreuse;
+}
+
+.second{
+    color: darkcyan;
+}
+
+.second{
+    border: 3px solid black;
+}
+@import url('https://fonts.googleapis.com/css2? family = Comfortaa: wght @ 300 & family = Lobster & family = Playfair + Display: ital, wght @ 1500 &family = Praise & family = Roboto + В сокращенном виде: курсив, ширина @ 1300; 1,400 & family = Roboto: курсив, ширина @ 1,100 & display = swap ');
+.four{
+    font-family: "Робото";
+    font-weight: 700;
+}
+.four{
+    color: rgb(21, 255, 0);
+}
+
+.four{
+    border: 3px solid black;
+}
+
+.four{
+    background-color: blue;
+}
